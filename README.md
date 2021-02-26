@@ -1,2 +1,2 @@
 # DataScience_topics
-Repositório para armazenar Jupyter notebooks abordando tópicos em Data Science.
+Repositório criado para armazenar Jupyter notebooks abordando tópicos em Data Science.
